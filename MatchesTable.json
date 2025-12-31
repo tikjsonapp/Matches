@@ -5,7 +5,6 @@
     "club2_name": "Leeds United",
     "club2_image": "",
     "type": "Premier League",
-    "type_image": "",
     "match_time": "Thursday 01 Jan - 20:30"
   },
   {
@@ -14,7 +13,6 @@
     "club2_name": "Manchester City",
     "club2_image": "",
     "type": "Premier League",
-    "type_image": "",
     "match_time": "Thursday 01 Jan - 23:00"
   },
   {
@@ -23,7 +21,6 @@
     "club2_name": "Arsenal",
     "club2_image": "",
     "type": "Premier League",
-    "type_image": "",
     "match_time": "Saturday 03 Jan - 20:30"
   },
   {
@@ -32,7 +29,6 @@
     "club2_name": "Barcelona",
     "club2_image": "",
     "type": "La Liga",
-    "type_image": "",
     "match_time": "Saturday 03 Jan - 23:00"
   },
   {
@@ -41,7 +37,6 @@
     "club2_name": "Tunisia",
     "club2_image": "",
     "type": "AFCON - Round of 16",
-    "type_image": "",
     "match_time": "Saturday 03 Jan - 22:00"
   },
   {
@@ -50,7 +45,6 @@
     "club2_name": "Manchester United",
     "club2_image": "",
     "type": "Premier League",
-    "type_image": "",
     "match_time": "Sunday 04 Jan - 15:30"
   },
   {
@@ -59,7 +53,6 @@
     "club2_name": "Real Betis",
     "club2_image": "",
     "type": "La Liga",
-    "type_image": "",
     "match_time": "Sunday 04 Jan - 18:15"
   },
   {
@@ -68,7 +61,6 @@
     "club2_name": "Chelsea",
     "club2_image": "",
     "type": "Premier League",
-    "type_image": "",
     "match_time": "Sunday 04 Jan - 20:30"
   },
   {
@@ -77,7 +69,6 @@
     "club2_name": "Atletico Madrid",
     "club2_image": "",
     "type": "La Liga",
-    "type_image": "",
     "match_time": "Sunday 04 Jan - 23:00"
   },
   {
@@ -86,7 +77,6 @@
     "club2_name": "Benin",
     "club2_image": "",
     "type": "AFCON - Round of 16",
-    "type_image": "",
     "match_time": "Monday 05 Jan - 19:00"
   }
 ]
