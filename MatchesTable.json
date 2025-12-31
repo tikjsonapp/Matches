@@ -49,9 +49,9 @@
   },
   {
     "club1_name": "Real Madrid",
-    "club1_image": "",
+    "club1_image": "https://qkepkixgsuvfckponytq.supabase.co/storage/v1/object/public/Club%20Images/Real_Madrid.png",
     "club2_name": "Real Betis",
-    "club2_image": "",
+    "club2_image": "https://qkepkixgsuvfckponytq.supabase.co/storage/v1/object/public/Club%20Images/Real_betis_logo.svg.png",
     "type": "La Liga",
     "match_time": "Sunday 04 Jan - 18:15"
   },
