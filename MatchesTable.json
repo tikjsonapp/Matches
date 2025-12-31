@@ -25,9 +25,9 @@
   },
   {
     "club1_name": "Espanyol",
-    "club1_image": "",
+    "club1_image": "https://qkepkixgsuvfckponytq.supabase.co/storage/v1/object/public/Club%20Images/Espanyol.png",
     "club2_name": "Barcelona",
-    "club2_image": "",
+    "club2_image": "https://qkepkixgsuvfckponytq.supabase.co/storage/v1/object/public/Club%20Images/FC_Barcelona_(crest).svg.png",
     "type": "La Liga",
     "match_time": "Saturday 03 Jan - 23:00"
   },
